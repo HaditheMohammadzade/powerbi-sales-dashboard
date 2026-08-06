@@ -1,4 +1,4 @@
-# 📊 Interactive Power BI Dashboard
+# 📊 Power BI Sales Dashboard
 
 An interactive business intelligence dashboard developed with **Microsoft Power BI** to explore, visualize, and analyze sales data. This project demonstrates the complete workflow of transforming raw data into meaningful insights through data cleaning, modeling, and interactive visualizations.
 
@@ -29,24 +29,6 @@ The project was developed as part of a Data Mining course and focuses on applyin
 - DAX
 - Data Visualization
 - Business Intelligence
-
----
-
-## 📂 Repository Structure
-
-```
-interactive-powerbi-dashboard/
-│
-├── dashboard.pbix
-├── README.md
-├── report.pdf
-│
-└── images/
-    ├── dashboard1.png
-    ├── dashboard2.png
-    ├── dashboard3.png
-    └── dashboard4.png
-```
 
 ---
 
@@ -122,8 +104,4 @@ The dashboard allows users to:
 | report.pdf | Project report |
 | images/ | Dashboard screenshots |
 
----
 
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to reach out or open an issue.
