@@ -67,25 +67,25 @@ The dashboard includes several interactive pages for data exploration, including
 
 ### Dashboard 1
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/dashboard_page_1.png)
 
 ---
 
 ### Dashboard 2
 
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](images/dashboard_page_2.png)
 
 ---
 
 ### Dashboard 3
 
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](images/dashboard_page_3.png)
 
 ---
 
 ### Dashboard 4
 
-![Dashboard 4](images/dashboard4.png)
+![Dashboard 4](images/dashboard_page_4.png)
 
 ---
 
