@@ -32,6 +32,14 @@ The project was developed as part of a Data Mining course and focuses on applyin
 
 ---
 
+## 📂 Dataset
+
+This project uses the **Retail Sales Analytics and E-commerce Insights** dataset for sales analysis.
+
+Dataset:
+https://www.opendatabay.com/data/consumer/7b291337-5fed-470f-a206-0dc899425db4
+---
+
 ## 📈 Dashboard Features
 
 The dashboard includes several interactive pages for data exploration, including:
